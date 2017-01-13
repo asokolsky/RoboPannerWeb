@@ -1,5 +1,15 @@
 # Jekyll crap..
-_site/
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+
 
 # Windows image file caches
 Thumbs.db
